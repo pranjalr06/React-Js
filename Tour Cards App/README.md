@@ -1,8 +1,6 @@
-# React + Vite
+The Tour Card App is an interactive web application designed to showcase multiple tour cards to users. Users can browse through the cards, and if they are not interested in a particular tour, they can click a "Not Interested" button. This temporarily removes the card from view. Once all tour cards have been removed, a "Refresh" button appears, allowing the user to reload and view all the tour cards again.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot (134)](https://github.com/user-attachments/assets/10fa6135-b8f4-4168-9416-f89370c93ab6)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (135)](https://github.com/user-attachments/assets/3c024a22-9ce3-42cb-a8b0-fe45d880bdd2)
